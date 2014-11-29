@@ -5,15 +5,10 @@
   "author": "Shahrul Nizam",
   "update": [
     {
+      "version": "v1.0.0",
       "date": "30/11/2014",
-      "name": "initial release",
-      "feature": "quick navigation, search translation, surah index, tags, qnote"
-    }
-  ],
-  "log": [
-    {
-      "date": "30/11/2014",
-      "name": "initial release",
+      "name": "qmeta v1.0.0-initial",
+      "feature": "quick navigation, search translation, surah index, tags, qnote",
       "log-entries": [
         {
           "log": "Initial release"
