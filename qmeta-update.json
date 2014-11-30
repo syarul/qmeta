@@ -14,19 +14,19 @@
           "log": "Initial Release"
         },
         {
-          "log": "Add Quick Navigation"
+          "log": "Add Quick Navigation, available in full version"
         },
         {
-          "log": "Add Search Translation"
+          "log": "Add Search Translation, support for multiple search entries in full version"
         },
         {
-          "log": "Add Surah Index"
+          "log": "Add Surah Index, add sorting options: ascending, descending, revelation order, aya count+ and aya count-"
         },
         {
           "log": "Add Tags"
         },
         {
-          "log": "Add qNote Editor"
+          "log": "Add qNote Editor, available in full version"
         }
       ]
     }
