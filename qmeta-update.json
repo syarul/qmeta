@@ -1,6 +1,6 @@
 {
   "name": "qmeta-update",
-  "version": "1.0",
+  "version": "1.1",
   "copyright": "(C) 2014-present Shahrul Nizam",
   "author": "Shahrul Nizam",
   "update": [
@@ -27,6 +27,32 @@
         },
         {
           "log": "Add qNote Editor, available in full version"
+        }
+      ]
+    },
+    {
+      "version": "v1.0.4 arm, v1.0.5 x86",
+      "date": "09/12/2014",
+      "name": "qmeta v1.0.4-arm, qmeta v1.0.5-x86",
+      "features": "-",
+      "entries": [
+        {
+          "log": "Update release for arm/x86 based platform."
+        },
+        {
+          "log": "Fix issue regarding HTML links inside qNote not propagating outside application."
+        },
+        {
+          "log": "Fix drag/swipe on search result(s) not hiding soft keyboard."
+        },
+        {
+          "log": "Replace loading all loading animation with custom css."
+        },
+        {
+          "log": "Back button now will toggle side menu first, before exiting."
+        },
+        {
+          "log": "Add small margin on wysisyg editor of qNote to allow scrolling."
         }
       ]
     }
