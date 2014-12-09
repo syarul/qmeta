@@ -21,7 +21,7 @@
           "log": "Fix drag/swipe on search result(s) not hiding soft keyboard."
         },
         {
-          "log": "Replace loading all loading animation with custom css."
+          "log": "Replace all loading animation with custom css."
         },
         {
           "log": "Back button now will toggle side menu first, before exiting."
