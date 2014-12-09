@@ -1,0 +1,35 @@
+{
+  "name": "qmeta-update-x86",
+  "version": "1.0",
+  "copyright": "(C) 2014-present Shahrul Nizam",
+  "author": "Shahrul Nizam",
+  "update": [
+    {
+      "version": "v1.0.5",
+      "date": "09/12/2014",
+      "name": "qmeta v1.0.5-x86",
+      "core": "x86",
+      "features": "Quick Navigation, Search Translation, Surah Index, Tags, qNote Editor",
+      "entries": [
+        {
+          "log": "Update release for x86 based platform."
+        },
+        {
+          "log": "Fix issue regarding HTML links inside qNote not propagating outside application."
+        },
+        {
+          "log": "Fix drag/swipe on search result(s) not hiding soft keyboard."
+        },
+        {
+          "log": "Replace loading all loading animation with custom css."
+        },
+        {
+          "log": "Back button now will toggle side menu first, before exiting."
+        },
+        {
+          "log": "Add small margin on wysisyg editor of qNote to allow scrolling."
+        }
+      ]
+    }
+  ]
+}
