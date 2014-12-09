@@ -3,4 +3,4 @@ qmeta
 
 qmeta-app data
 
-Public json data for qmeta app. Looking for help for localization for menu language.
+Public json data for qmeta app. Looking help in localization for menu language.
